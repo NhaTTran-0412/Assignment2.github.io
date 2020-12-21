@@ -1,0 +1,10 @@
+body {
+    margin: 100px 300px 100px 300px;
+    background-image:linear-gradient(#c0c0c0, #ffffff);
+}
+p0{
+    font-size: 20;
+    background: -webkit-linear-gradient(#5f08ff, #000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
